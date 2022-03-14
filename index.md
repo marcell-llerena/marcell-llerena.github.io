@@ -2,7 +2,10 @@
 ---
 ## Turtle Recall Classification: Data cleaning
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<div style="text-align: justify">
+In order to classify different turtles, first I cleaned the data of possibly duplicate or outliers images. Then I applied fine tunning by taking a pretrained model on the ImageNet dataset.
+</div>
+
 
 ```markdown
 Syntax highlighted code block
