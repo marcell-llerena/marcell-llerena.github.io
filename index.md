@@ -3,6 +3,10 @@
 
 ## Tracking with particle swarm optimization
 
+<div style="text-align: justify">
+In this project I am going to perform tracking with
+</div>
+
 
 ## Turtle Recall Classification: Data cleaning
 
@@ -13,7 +17,7 @@ In order to classify different turtles, was necessary to clean the data of possi
 First, I used different pre-trained models as Resnet-101 and Resnet-152 to get average of the embeddings of the same class and discard embeddings with high cosine similarity (duplicate) or low cosine similarity (outliers).
 </div>
 
-<center><img src="images/duplicated-outlier.png"/></center>
+<center><img src="images/duplicated_turtles.png"/></center>
 
 
 ```markdown
