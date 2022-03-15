@@ -2,7 +2,7 @@
 ---
 ## Turtle Recall Classification: Data cleaning
 
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/marcell-llerena/turtle-recall-classification/blob/main/notebooks/data_cleaning.ipynb)
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/turtle_recall_data_cleaning.html)
 
 <div style="text-align: justify">
 In order to classify different turtles, first I cleaned the data of possibly duplicate or outliers images. Then I applied fine tunning by taking a pretrained model on the ImageNet dataset.
