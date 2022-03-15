@@ -5,8 +5,11 @@
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/turtle_recall_data_cleaning.html)
 
 <div style="text-align: justify">
-In order to classify different turtles, first I cleaned the data of possibly duplicate or outliers images. Then I applied fine tunning by taking a pretrained model on the ImageNet dataset.
+In order to classify different turtles, was necessary to clean the data of possibly duplicate or outliers images.
+First, I used different pre-trained models as Resnet-101 and Resnet-152 to get average of the embeddings of the same class and discard embeddings with high cosine similarity (duplicate) or low cosine similarity (outliers).
 </div>
+
+<center><img src="images/duplicated-outlier.png"/></center>
 
 
 ```markdown
