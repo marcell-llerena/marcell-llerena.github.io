@@ -7,6 +7,8 @@
 In this project I am going to perform tracking based on color using particle swarm optimization
 </div>
 
+<center><img src="images/tracking_pso.gif"/></center>
+
 
 ## Turtle Recall Classification: Data cleaning
 
