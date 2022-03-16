@@ -8,7 +8,9 @@ In this project, I am going to perform tracking based on color using particle sw
 Nowadays, deep learning beat classic methods to tracking, but it is worth how heuristics work to this particular challenge.
 </div>
 
-<center><img src="images/tracking_pso.gif"/></center>
+<div style="margin-top:5px; margin-bottom:5px">
+    <center><img src="images/tracking_pso.gif"/></center>
+</div>
 
 ---
 
