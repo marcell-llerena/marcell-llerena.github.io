@@ -19,6 +19,8 @@ Nowadays, deep learning beat classic methods to tracking, but it is worth how he
 
 ## Turtle Recall Classification: Data cleaning
 
+### Zindi Challenge (https://zindi.africa/competitions/turtle-recall-conservation-challenge)
+
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/turtle_recall_data_cleaning.html)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/marcell-llerena/turtle-recall-classification)
 
@@ -30,3 +32,5 @@ First, I used different pre-trained models as Resnet-101 and Resnet-152 to get a
 <div style="margin-top:20px; margin-bottom:20px">
     <center><img src="images/outlier_turtles.png"/></center>
 </div>
+
+---
