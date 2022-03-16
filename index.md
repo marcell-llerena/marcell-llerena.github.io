@@ -19,7 +19,7 @@ Nowadays, deep learning beat classic methods to tracking, but it is worth how he
 
 ## Turtle Recall Classification: Data cleaning
 
-<h3 href="https://zindi.africa/competitions/turtle-recall-conservation-challenge">Challenge hosted by Zindi and DeepMind</h3>
+<h3><a href="https://zindi.africa/competitions/turtle-recall-conservation-challenge">Challenge hosted by Zindi and DeepMind</a></h3>
 
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/turtle_recall_data_cleaning.html)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/marcell-llerena/turtle-recall-classification)
