@@ -8,4 +8,4 @@ description:
 theme: jekyll-theme-minimal
 
 github:
-  is_project_page: false
+  is\_project\_page:false
