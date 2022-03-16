@@ -27,4 +27,6 @@ In order to classify different turtles, was necessary to clean the data of possi
 First, I used different pre-trained models as Resnet-101 and Resnet-152 to get average of the embeddings of the same class and discard embeddings with high cosine similarity (duplicate) or low cosine similarity (outliers).
 </div>
 
-<center><img src="images/outlier_turtles.png"/></center>
+<div style="margin-top:20px; margin-bottom:20px">
+    <center><img src="images/outlier_turtles.png"/></center>
+</div>
