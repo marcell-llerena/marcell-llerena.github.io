@@ -1,7 +1,7 @@
 # Portfolio
 ---
 
-### Detection and classification with deep learning
+## Detection and classification with deep learning
 
 Try to detect and classify when a potential risk dog has not a muzzle could avoid
 future attacks against other dogs or pedestrians. In that sense, in this project
