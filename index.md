@@ -3,9 +3,9 @@
 
 ### Detection and classification with deep learning
 
-Try to detect and classify when a potential risk dog has not a bozal could avoid
+Try to detect and classify when a potential risk dog has not a muzzle could avoid
 future attacks against other dogs or pedestrians. In that sense, in this project
-I used a faster R-CNN pre-trained on COCO dataset to detect dogs, and other model to classify if a dog has or no bozal.
+I used a faster R-CNN pre-trained on COCO dataset to detect dogs, and other model to classify if a dog has or no muzzle.
 The second model uses EfficientNet as feature extractor and a classifier is trained from scratch. The performance at the moment is quite encouraging.
 
 ---
