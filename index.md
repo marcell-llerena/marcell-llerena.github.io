@@ -8,6 +8,10 @@ future attacks against other dogs or pedestrians. In that sense, in this project
 I used a faster R-CNN pre-trained on COCO dataset to detect dogs, and other model to classify if a dog has or no muzzle.
 The second model uses EfficientNet as feature extractor and a classifier is trained from scratch. The performance at the moment is quite encouraging.
 
+<div style="margin-top:20px; margin-bottom:20px">
+    <center><img src="images/dog_muzzle.gif"/></center>
+</div>
+
 ---
 
 ## Tracking with particle swarm optimization
