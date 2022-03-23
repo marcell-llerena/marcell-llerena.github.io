@@ -3,7 +3,7 @@
 
 ## Trailblazers Qualification Challenge
 
-<h3><a href="https://zindi.africa/competitions/turtle-recall-conservation-challenge">Challenge hosted by Zindi</a></h3>
+<h3><a href="https://zindi.africa/competitions/be-a-trailblazer">Challenge hosted by Zindi</a></h3>
 
 The objective of this challenge is to build a predictive model that accurately estimates the percentage of households per ward that are female-headed and living below a particular income threshold, by using data points that can be collected through other means without an intensive household survey like the census.
 As start point to resolve this challenge: I made an exploratory data analysis (EDA) in order to get most representative features and train a basic random forest regressor.
