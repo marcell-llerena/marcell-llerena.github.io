@@ -3,10 +3,11 @@
 
 ## Steam Games Recommender System
 
-[![Open Web App](https://{deployed app name}.herokuapp.com/last.svg)](https://steam-games-recommender-system.herokuapp.com/)
+[![Open Web App](https://img.shields.io/badge/Heroku-Open_Web_App-blue?logo=Heroku)](https://steam-games-recommender-system.herokuapp.com/)
 
+<div style="text-align: justify">
 I built a recommeder system of Steam video games based on content, which use characteristic information as description about the game, genres, tags and developer.
-
+</div>
 
 ---
 
@@ -16,9 +17,10 @@ I built a recommeder system of Steam video games based on content, which use cha
 
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/trailblazers_qualification_challenge.html)
 
-
+<div style="text-align: justify">
 The objective of this challenge is to build a predictive model that accurately estimates the percentage of households per ward that are female-headed and living below a particular income threshold, by using data points that can be collected through other means without an intensive household survey like the census.
 As start point to resolve this challenge: I made an exploratory data analysis (EDA) in order to get most representative features and trained a basic random forest regressor.
+</div>
 
 <div style="margin-top:20px; margin-bottom:20px">
     <center><img src="images/regplot.png"/></center>
