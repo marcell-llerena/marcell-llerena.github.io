@@ -9,6 +9,10 @@
 I built a recommeder system of Steam video games based on content, which use characteristic information as description about the game, genres, tags and developer.
 </div>
 
+<div style="margin-top:20px; margin-bottom:20px">
+    <center><img src="images/steam_recommender_system.png"/></center>
+</div>
+
 ---
 
 ## Trailblazers Qualification Challenge
