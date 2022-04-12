@@ -3,6 +3,10 @@
 
 ## Steam Games Recommender System
 
+I built a recommeder system of Steam video games based on content, which use characteristic information as description about the game, genres, tags and developer.
+
+[![Heroku CI Status](https://{deployed app name}.herokuapp.com/last.svg)](https://steam-games-recommender-system.herokuapp.com/)
+
 
 ---
 
