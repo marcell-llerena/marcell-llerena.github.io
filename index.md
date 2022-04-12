@@ -1,6 +1,11 @@
 # Portfolio
 ---
 
+## Steam Games Recommender System
+
+
+---
+
 ## Trailblazers Qualification Challenge
 
 <h3><a href="https://zindi.africa/competitions/be-a-trailblazer">Challenge hosted by Zindi</a></h3>
