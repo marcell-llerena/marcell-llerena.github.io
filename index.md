@@ -17,6 +17,9 @@ I built a recommeder system of Steam video games based on content, which use cha
 
 ## Power BI Visualizations
 
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/marcell-llerena/data-visualizations)
+
+
 <div style="text-align: justify">
 Different data visualizations made in Power BI like as videogames selling, infant mortality and life expectancy, etc.
 </div>
