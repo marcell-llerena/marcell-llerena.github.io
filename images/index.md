@@ -15,19 +15,6 @@ I built a recommeder system of Steam video games based on content, which use cha
 
 ---
 
-## Power BI Visualizations
-
-<div style="text-align: justify">
-Different data visualizations made in Power BI like as videogames selling, infant mortality and life expectancy, etc.
-</div>
-
-<div style="margin-top:20px; margin-bottom:20px">
-    <center><img src="images/vis2.PNG"/></center>
-</div>
-
-
---
-
 ## Trailblazers Qualification Challenge
 
 <h3><a href="https://zindi.africa/competitions/be-a-trailblazer">Challenge hosted by Zindi</a></h3>
