@@ -29,7 +29,7 @@ Different data visualizations made in Power BI like as videogames selling, infan
 </div>
 
 
---
+---
 
 ## Trailblazers Qualification Challenge
 
