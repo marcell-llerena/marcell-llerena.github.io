@@ -15,7 +15,7 @@ I built a recommeder system of Steam video games based on content, which use cha
 
 ---
 
-## Power BI Visualizations
+## Data Visualizations
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/marcell-llerena/data-visualizations)
 
