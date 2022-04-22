@@ -46,6 +46,7 @@ As start point to resolve this challenge: I made an exploratory data analysis (E
     <center><img src="images/regplot.png"/></center>
 </div>
 
+---
 
 ## Detection and classification with deep learning
 
